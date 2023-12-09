@@ -25,7 +25,7 @@ And more sites are coming soon 😃</br>
          <img src="https://media.discordapp.net/attachments/731420248254840913/971709690633388063/Twitter-Icon-removebg-preview.png"
          width="85px" height="85px">
  
-   <a href="https://www.twitch.tv/vtirox_">
+   <a href="https://www.twitch.tv/tirox">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971710785405452318/unknown.png?width=676&height=676"
          width="75px" height="75px">
     </br>
