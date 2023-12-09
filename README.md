@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey there, I'm Ali 👋🏼
 
-<!--
-**YamatoSan-v1/YamatoSan-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Let me introduce myself to you guys 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Hussain 20 Years old from Saudi Arabia</br>
+
+I have 2 websites and the 3rd is coming soon</br>
+</br>
+First of all my portfolio is under maintenance</br>
+</br>
+I am a part of a site named https://AnimeMab.com and it shows anime episodes and movies with high resolution</br>
+</br>
+</br>
+And more sites are coming soon 😃</br>
+
+
+# My social media accounts 🌐
+
+ <a href="https://www.instagram.com/o4wy">
+         <img src="https://media.discordapp.net/attachments/731420248254840913/971709168580960286/unknown.png?width=676&height=676"
+         width="75px" height="75px">
+                                  
+ <a href="https://www.twitter.com/tiroxv1">
+         <img src="https://media.discordapp.net/attachments/731420248254840913/971709690633388063/Twitter-Icon-removebg-preview.png"
+         width="85px" height="85px">
+ 
+   <a href="https://www.twitch.tv/vtirox_">
+         <img src="https://media.discordapp.net/attachments/731420248254840913/971710785405452318/unknown.png?width=676&height=676"
+         width="75px" height="75px">
+    </br>
+  </br>
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/322182857655320576)](https://discord.com/users/322182857655320576)
