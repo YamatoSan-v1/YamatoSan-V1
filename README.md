@@ -5,7 +5,7 @@
 
 I'm Hussain 20 Years old from Saudi Arabia</br>
 
-I have 2 websites and the 3rd is coming soon</br>
+I have 1 website and the 2nd is coming soon</br>
 </br>
 First of all my portfolio is under maintenance</br>
 </br>
